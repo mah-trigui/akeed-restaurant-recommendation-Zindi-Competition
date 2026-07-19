@@ -1,7 +1,7 @@
 # Akeed Restaurant Recommendation
 
 This competition is hosted on Zindi, a machine learning platform for data science challenges.  
-Here is the link to the competition: [Akeed Restaurant Recommendation Challenge 🌾 - $" 000 USD](https://zindi.africa/competitions/akeed-restaurant-recommendation-challenge)
+Here is the link to the competition: [Akeed Restaurant Recommendation Challenge 🌾 - $3 000 USD](https://zindi.africa/competitions/akeed-restaurant-recommendation-challenge)
 
 Ranked in the TOP 45%
 ---
